@@ -1,0 +1,7 @@
+C:\Users\dalmiro\Desktop\Sistema de Infromacion 2\PROYECTO\MicroservicioDemo2\obj\Release\net9.0\MicroservicioDemo2.csproj.AssemblyReference.cache
+C:\Users\dalmiro\Desktop\Sistema de Infromacion 2\PROYECTO\MicroservicioDemo2\obj\Release\net9.0\MicroservicioDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalmiro\Desktop\Sistema de Infromacion 2\PROYECTO\MicroservicioDemo2\obj\Release\net9.0\MicroservicioDemo2.AssemblyInfoInputs.cache
+C:\Users\dalmiro\Desktop\Sistema de Infromacion 2\PROYECTO\MicroservicioDemo2\obj\Release\net9.0\MicroservicioDemo2.AssemblyInfo.cs
+C:\Users\dalmiro\Desktop\Sistema de Infromacion 2\PROYECTO\MicroservicioDemo2\obj\Release\net9.0\MicroservicioDemo2.csproj.CoreCompileInputs.cache
+C:\Users\dalmiro\Desktop\Sistema de Infromacion 2\PROYECTO\MicroservicioDemo2\obj\Release\net9.0\MicroservicioDemo2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dalmiro\Desktop\Sistema de Infromacion 2\PROYECTO\MicroservicioDemo2\obj\Release\net9.0\MicroservicioDemo2.MvcApplicationPartsAssemblyInfo.cache
